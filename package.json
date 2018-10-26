@@ -1,0 +1,21 @@
+{
+  "name": "flairrank",
+  "version": "1.0.0",
+  "description": "ranks flair video test",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "roblox-js": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rank",
+    "flair",
+    "etc"
+  ],
+  "author": "BunicornBoy#9501",
+  "license": "ISC"
+}
